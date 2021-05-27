@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-My name is Gourab Sarkar and I'm a Full-Stack Web Developer. Reach me at https://gourabix.netlify.app/.
+My name is Gourab Sarkar and I'm a Full-Stack Web Developer. Reach me at https://gourabsarkar.netlify.app/.
 
 <!--
 **GourabIX/gourabix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
